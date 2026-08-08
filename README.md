@@ -137,6 +137,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh018/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/rajansingh018/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3731-find-missing-elements](https://github.com/rajansingh018/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -230,6 +231,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/rajansingh018/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -290,5 +292,6 @@ I regularly update this repository as I solve new LeetCode problems.
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/rajansingh018/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
