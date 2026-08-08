@@ -58,6 +58,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0033-search-in-rotated-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajansingh018/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rajansingh018/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/rajansingh018/leetcode-solutions/tree/master/0704-binary-search) |
@@ -69,6 +70,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0007-reverse-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/rajansingh018/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/rajansingh018/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Hash Table
@@ -123,4 +125,8 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rajansingh018/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
