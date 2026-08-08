@@ -118,6 +118,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0066-plus-one](https://github.com/rajansingh018/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rajansingh018/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/rajansingh018/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -222,6 +223,7 @@ I regularly update this repository as I solve new LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rajansingh018/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Newton's Method
@@ -291,6 +293,7 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/rajansingh018/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 ## String
