@@ -119,6 +119,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0069-sqrtx](https://github.com/rajansingh018/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rajansingh018/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rajansingh018/leetcode-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -256,6 +257,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/rajansingh018/leetcode-solutions/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajansingh018/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
@@ -305,4 +307,8 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rajansingh018/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
