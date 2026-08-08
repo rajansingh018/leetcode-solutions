@@ -43,6 +43,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/rajansingh018/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -51,6 +52,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/rajansingh018/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
