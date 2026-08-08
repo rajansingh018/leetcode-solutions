@@ -67,6 +67,7 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
@@ -116,4 +117,8 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/rajansingh018/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
