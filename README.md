@@ -292,6 +292,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0136-single-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
+| [1009-complement-of-base-10-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 ## String
 |  |
 | ------- |
