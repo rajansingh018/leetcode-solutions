@@ -49,6 +49,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0056-merge-intervals](https://github.com/rajansingh018/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/rajansingh018/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/rajansingh018/leetcode-solutions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -80,6 +81,7 @@ I regularly update this repository as I solve new LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
@@ -95,6 +97,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0018-4sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/rajansingh018/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
@@ -137,4 +140,12 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rajansingh018/leetcode-solutions/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
