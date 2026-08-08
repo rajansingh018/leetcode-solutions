@@ -62,6 +62,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/rajansingh018/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/rajansingh018/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -109,6 +110,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rajansingh018/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rajansingh018/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -130,6 +132,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0018-4sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/rajansingh018/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -152,6 +155,7 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rajansingh018/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -188,10 +192,12 @@ I regularly update this repository as I solve new LeetCode problems.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
