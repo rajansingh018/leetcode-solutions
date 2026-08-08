@@ -57,6 +57,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/rajansingh018/leetcode-solutions/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -118,6 +119,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0054-spiral-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0867-transpose-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
@@ -175,6 +177,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
