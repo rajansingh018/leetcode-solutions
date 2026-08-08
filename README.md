@@ -41,6 +41,7 @@ I regularly update this repository as I solve new LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -132,6 +133,7 @@ I regularly update this repository as I solve new LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rajansingh018/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rajansingh018/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
