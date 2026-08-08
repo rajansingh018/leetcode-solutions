@@ -47,6 +47,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajansingh018/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/rajansingh018/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/rajansingh018/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/rajansingh018/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -105,6 +106,7 @@ I regularly update this repository as I solve new LeetCode problems.
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -155,4 +157,8 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0118-pascals-triangle](https://github.com/rajansingh018/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
