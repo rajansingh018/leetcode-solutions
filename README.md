@@ -69,6 +69,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0209-minimum-size-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/rajansingh018/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rajansingh018/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/rajansingh018/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -143,6 +144,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0031-next-permutation](https://github.com/rajansingh018/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rajansingh018/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/rajansingh018/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rajansingh018/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
