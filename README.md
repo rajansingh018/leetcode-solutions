@@ -49,6 +49,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0056-merge-intervals](https://github.com/rajansingh018/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/rajansingh018/leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/rajansingh018/leetcode-solutions/tree/master/0704-binary-search) |
@@ -148,4 +149,8 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
