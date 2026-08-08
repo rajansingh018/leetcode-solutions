@@ -121,6 +121,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0829-consecutive-numbers-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [2235-add-two-integers](https://github.com/rajansingh018/leetcode-solutions/tree/master/2235-add-two-integers) |
@@ -222,6 +223,7 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
+| [0509-fibonacci-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -246,6 +248,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajansingh018/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/rajansingh018/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -294,4 +297,8 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/rajansingh018/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
