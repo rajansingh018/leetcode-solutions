@@ -66,6 +66,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0136-single-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rajansingh018/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
@@ -113,6 +114,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0048-rotate-image](https://github.com/rajansingh018/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rajansingh018/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rajansingh018/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
@@ -144,6 +146,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0031-next-permutation](https://github.com/rajansingh018/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rajansingh018/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rajansingh018/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rajansingh018/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
