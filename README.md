@@ -60,6 +60,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajansingh018/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/rajansingh018/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/rajansingh018/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -197,6 +198,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0119-pascals-triangle-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajansingh018/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0152-maximum-product-subarray](https://github.com/rajansingh018/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 ## Simulation
 |  |
 | ------- |
