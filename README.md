@@ -58,6 +58,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0704-binary-search](https://github.com/rajansingh018/leetcode-solutions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3731-find-missing-elements](https://github.com/rajansingh018/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -113,6 +114,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0054-spiral-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
