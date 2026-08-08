@@ -80,6 +80,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0485-max-consecutive-ones](https://github.com/rajansingh018/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh018/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rajansingh018/leetcode-solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0867-transpose-matrix) |
@@ -111,6 +112,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rajansingh018/leetcode-solutions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
