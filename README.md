@@ -35,3 +35,15 @@ DynamicProgramming/
 
 I regularly update this repository as I solve new LeetCode problems.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+<!---LeetCode Topics End-->
