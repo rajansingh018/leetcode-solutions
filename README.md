@@ -73,6 +73,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0069-sqrtx](https://github.com/rajansingh018/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [2469-convert-the-temperature](https://github.com/rajansingh018/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Hash Table
 |  |
 | ------- |
