@@ -91,6 +91,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0069-sqrtx](https://github.com/rajansingh018/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0829-consecutive-numbers-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [2235-add-two-integers](https://github.com/rajansingh018/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rajansingh018/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 ## Hash Table
@@ -193,4 +194,8 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [0829-consecutive-numbers-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 <!---LeetCode Topics End-->
