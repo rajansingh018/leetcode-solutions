@@ -48,6 +48,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rajansingh018/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rajansingh018/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/rajansingh018/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/rajansingh018/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
@@ -150,6 +151,7 @@ I regularly update this repository as I solve new LeetCode problems.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rajansingh018/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -194,6 +196,7 @@ I regularly update this repository as I solve new LeetCode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rajansingh018/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/rajansingh018/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajansingh018/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
