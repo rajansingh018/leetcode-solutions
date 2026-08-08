@@ -114,6 +114,7 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/rajansingh018/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rajansingh018/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rajansingh018/leetcode-solutions/tree/master/0069-sqrtx) |
