@@ -43,6 +43,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0015-3sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rajansingh018/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -142,6 +143,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0015-3sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rajansingh018/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/rajansingh018/leetcode-solutions/tree/master/0075-sort-colors) |
