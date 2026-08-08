@@ -42,10 +42,12 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Math
 |  |
 | ------- |
