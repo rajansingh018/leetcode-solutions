@@ -46,4 +46,8 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
