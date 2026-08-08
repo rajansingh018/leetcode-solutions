@@ -68,6 +68,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/rajansingh018/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rajansingh018/leetcode-solutions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -116,6 +117,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/rajansingh018/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3731-find-missing-elements](https://github.com/rajansingh018/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -239,6 +241,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/rajansingh018/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Pigeonhole Principle
 |  |
 | ------- |
