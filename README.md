@@ -126,6 +126,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0007-reverse-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/rajansingh018/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rajansingh018/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rajansingh018/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -144,6 +145,7 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/rajansingh018/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rajansingh018/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
@@ -314,6 +316,7 @@ I regularly update this repository as I solve new LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/rajansingh018/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Memoization
