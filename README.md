@@ -143,6 +143,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0829-consecutive-numbers-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [2235-add-two-integers](https://github.com/rajansingh018/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rajansingh018/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Hash Table
 |  |
 | ------- |
