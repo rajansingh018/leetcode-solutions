@@ -139,6 +139,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0189-rotate-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rajansingh018/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rajansingh018/leetcode-solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajansingh018/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
