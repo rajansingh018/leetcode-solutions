@@ -78,6 +78,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0283-move-zeroes](https://github.com/rajansingh018/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rajansingh018/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/rajansingh018/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -118,6 +119,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0349-intersection-of-two-arrays](https://github.com/rajansingh018/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/rajansingh018/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/rajansingh018/leetcode-solutions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rajansingh018/leetcode-solutions/tree/master/0704-binary-search) |
@@ -277,6 +279,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rajansingh018/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/rajansingh018/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -303,6 +306,7 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh018/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Pigeonhole Principle
@@ -339,4 +343,8 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0258-add-digits](https://github.com/rajansingh018/leetcode-solutions/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajansingh018/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
