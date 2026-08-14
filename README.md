@@ -178,6 +178,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1189-maximum-number-of-balloons](https://github.com/rajansingh018/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajansingh018/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/rajansingh018/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -333,6 +334,7 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajansingh018/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -349,6 +351,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1189-maximum-number-of-balloons](https://github.com/rajansingh018/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajansingh018/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Memoization
 |  |
 | ------- |
