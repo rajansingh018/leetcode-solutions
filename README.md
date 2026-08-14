@@ -342,6 +342,7 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [1021-remove-outermost-parentheses](https://github.com/rajansingh018/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/rajansingh018/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Memoization
@@ -357,4 +358,12 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rajansingh018/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rajansingh018/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
