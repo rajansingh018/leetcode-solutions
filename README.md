@@ -101,6 +101,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rajansingh018/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -158,6 +159,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0509-fibonacci-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0829-consecutive-numbers-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/rajansingh018/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rajansingh018/leetcode-solutions/tree/master/2469-convert-the-temperature) |
