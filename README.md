@@ -201,6 +201,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rajansingh018/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajansingh018/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3794-reverse-string-prefix](https://github.com/rajansingh018/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
 |  |
 | ------- |
@@ -361,6 +362,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1903-largest-odd-number-in-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajansingh018/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3794-reverse-string-prefix](https://github.com/rajansingh018/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Memoization
 |  |
 | ------- |
