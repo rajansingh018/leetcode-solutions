@@ -106,6 +106,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajansingh018/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajansingh018/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rajansingh018/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -343,6 +344,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0231-power-of-two](https://github.com/rajansingh018/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajansingh018/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
 | ------- |
