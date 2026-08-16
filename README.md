@@ -104,6 +104,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1901-find-a-peak-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajansingh018/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
@@ -161,6 +162,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0829-consecutive-numbers-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/rajansingh018/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rajansingh018/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -290,6 +292,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/rajansingh018/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -387,6 +390,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Stack
 |  |
 | ------- |
@@ -407,4 +411,20 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
