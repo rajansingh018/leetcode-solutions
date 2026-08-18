@@ -167,6 +167,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1903-largest-odd-number-in-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/rajansingh018/leetcode-solutions/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/rajansingh018/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rajansingh018/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajansingh018/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -390,6 +391,7 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rajansingh018/leetcode-solutions/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/rajansingh018/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rajansingh018/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Greedy
 |  |
