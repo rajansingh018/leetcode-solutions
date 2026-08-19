@@ -378,6 +378,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/rajansingh018/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1108-defanging-an-ip-address](https://github.com/rajansingh018/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/rajansingh018/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
