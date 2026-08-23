@@ -445,4 +445,8 @@ I regularly update this repository as I solve new LeetCode problems.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/rajansingh018/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
