@@ -20,29 +20,17 @@ ListNode* moveNtimes(ListNode* curr, int N){
         if(head->next == NULL && n==1){
             return NULL;
         }
-        int cnt = 0;
-        ListNode* temp = head;
-        while(temp!= NULL){
-            cnt++;
-            temp = temp->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        fast = moveNtimes(fast, n);
+        if(fast == NULL) return head->next;
+        while(fast->next != NULL){
+            slow = slow->next;
+            fast = fast->next;
         }
-        if(cnt == n){
-            head = head->next;
-            return head;
-        }
-        int linkres = cnt-n;
-        ListNode* tmp = head;
-        while(tmp != NULL){
-            
-            linkres--;
-            if(linkres == 0){
-                break;
-            }
-            tmp = tmp->next;
-        }
-        ListNode* del = tmp;
-        tmp->next = tmp->next->next;
-        // delete del;
+        ListNode* del = slow->next;
+        slow->next = slow->next->next;
         return head;
+        
     }
 };
