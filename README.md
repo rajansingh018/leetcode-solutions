@@ -406,6 +406,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0242-valid-anagram](https://github.com/rajansingh018/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0709-to-lower-case](https://github.com/rajansingh018/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/rajansingh018/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/rajansingh018/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
