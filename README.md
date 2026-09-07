@@ -195,6 +195,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rajansingh018/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajansingh018/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -320,6 +321,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0169-majority-element](https://github.com/rajansingh018/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1189-maximum-number-of-balloons](https://github.com/rajansingh018/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rajansingh018/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -405,6 +407,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0205-isomorphic-strings](https://github.com/rajansingh018/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/rajansingh018/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0709-to-lower-case](https://github.com/rajansingh018/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -492,4 +495,8 @@ I regularly update this repository as I solve new LeetCode problems.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rajansingh018/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
