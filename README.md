@@ -170,6 +170,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0829-consecutive-numbers-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajansingh018/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -405,6 +406,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0268-missing-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajansingh018/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajansingh018/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
