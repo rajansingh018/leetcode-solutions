@@ -113,6 +113,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajansingh018/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2942-find-words-containing-character](https://github.com/rajansingh018/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajansingh018/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rajansingh018/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rajansingh018/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -434,6 +435,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rajansingh018/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2942-find-words-containing-character](https://github.com/rajansingh018/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajansingh018/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3794-reverse-string-prefix](https://github.com/rajansingh018/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Memoization
