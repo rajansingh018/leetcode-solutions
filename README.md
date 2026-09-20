@@ -374,6 +374,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1929-concatenation-of-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajansingh018/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -446,6 +447,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2942-find-words-containing-character](https://github.com/rajansingh018/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajansingh018/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/rajansingh018/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Memoization
 |  |
