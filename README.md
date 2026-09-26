@@ -116,6 +116,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/rajansingh018/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajansingh018/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2942-find-words-containing-character](https://github.com/rajansingh018/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -484,6 +485,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0735-asteroid-collision](https://github.com/rajansingh018/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/rajansingh018/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rajansingh018/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/rajansingh018/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -563,4 +565,5 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0402-remove-k-digits](https://github.com/rajansingh018/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/rajansingh018/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rajansingh018/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/rajansingh018/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
