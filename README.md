@@ -123,6 +123,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rajansingh018/leetcode-solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/rajansingh018/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [2974-minimum-number-game](https://github.com/rajansingh018/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/rajansingh018/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/rajansingh018/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rajansingh018/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -277,6 +278,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1636-sort-array-by-increasing-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/rajansingh018/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3731-find-missing-elements](https://github.com/rajansingh018/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -382,12 +384,14 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1929-concatenation-of-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rajansingh018/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/rajansingh018/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/rajansingh018/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [2679-sum-in-a-matrix](https://github.com/rajansingh018/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2974-minimum-number-game](https://github.com/rajansingh018/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Enumeration
 |  |
 | ------- |
