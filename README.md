@@ -182,6 +182,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [0509-fibonacci-number](https://github.com/rajansingh018/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0829-consecutive-numbers-sum](https://github.com/rajansingh018/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rajansingh018/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajansingh018/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rajansingh018/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
