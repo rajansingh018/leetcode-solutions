@@ -461,6 +461,7 @@ I regularly update this repository as I solve new LeetCode problems.
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/rajansingh018/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rajansingh018/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/rajansingh018/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/rajansingh018/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/rajansingh018/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/rajansingh018/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/rajansingh018/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
